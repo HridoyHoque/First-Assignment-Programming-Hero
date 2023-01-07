@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+}
+
+.banner{
+
+    background-image: url(../first-assingment-ph/images/banner/banner3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: right;
+    padding: 150px;
+
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: #FFF;
+    
+}
+
+.banner-description{
+    
+    color: #FFF;
+    
+}
+
+.btn-contact{
+
+    padding: 20px 30px;
+   margin-top: 10px;
+   color: #005FAC;
+   border-radius: 5px;
+   border: none;
+   margin-top: 25px;
+   font-weight: bold;
+}
+
+
+/* ===================================
+failure section start
+======================================*/
+
+.failure-container{
+    display: flex;
+    gap: 90px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.failure-title{
+    color: #151414;
+    font-style: bold;
+    font-size: 40px;
+}
+.failure-title-description{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #444343;
+    font-size: 16px;
+}
