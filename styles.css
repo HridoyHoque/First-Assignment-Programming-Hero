@@ -114,6 +114,11 @@ failure section start
 
 }
 
+/* <!-- =================================
+    Extra section
+===================================== --> */
+
+
 .extra{
     background-image: url(../first-assingment-ph/images/gradient2.png), url(../first-assingment-ph/extra.jfif);
     background-repeat: no-repeat;
@@ -124,7 +129,7 @@ failure section start
     
     margin-left: 230px;
     margin-right: 230px;
-    margin-bottom: 300px;
+    margin-bottom: 100px;
 
 }
 
@@ -132,4 +137,76 @@ failure section start
     font-size: 40px;
     color: #ffffff;
     font-weight: 700px;
+}
+
+/* <!-- =================================
+    footer Area
+===================================== --> */
+
+.footer-area{
+    display: flex;
+    justify-content: center;
+    gap: 320px;
+    background-color: #151414;
+    padding: 5px;
+}
+
+.media{
+    display: flex;
+    gap: 18px;
+    margin-top: 18px;
+}
+
+.future-title{
+
+    color: #F8F8F8;
+    font-size: 45px;
+}
+
+.future-title-description{
+    color: #FFFFFF;
+font-size: 16px;
+margin-top: 30px;
+}
+
+.subscribe-area h3{
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+.email{
+
+    width: 325px;
+    height: 64px;
+    border: 2px solid #ffffff;
+    border-radius: 8px;
+    font-size: 18px;
+    background-color: #000000;
+    color: rgb(255, 248, 248);
+}
+
+.btn-subscribe{
+    padding: 20px 36px;
+    background-color: #005FAC;
+    color: #FFF;
+    border-radius: 8px;
+    margin-top: 16px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.personal-info p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+   color: #FFFFFF; 
+   font-size: 16px;
+}
+
+.subscribe-area{
+    padding: 130px 0;
+}
+
+.future-seaction{
+    padding: 130px 0;
 }
