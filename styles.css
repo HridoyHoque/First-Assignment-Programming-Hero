@@ -120,7 +120,7 @@ failure section start
 
 
 .extra{
-    background-image: url(../first-assingment-ph/images/gradient2.png), url(../first-assingment-ph/extra.jfif);
+    background-image: url(../first-assingment-ph/images/gradient2.png);
     background-repeat: no-repeat;
     justify-content: center;
     justify-items: center;
